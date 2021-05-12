@@ -101,3 +101,8 @@ form button:hover {
     transform: translateY(8rem) rotateZ(20deg);
     opacity: 0;
 }
+
+.slide {
+    transform: translateX(10rem);
+    opacity: 0;
+}
